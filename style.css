@@ -1,12 +1,23 @@
 /* COMMENT */
 
+#center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#center p {
+    text-align: center;
+}
+
 #menu ul {
     margin: 0;
     padding: 14px;
     list-style-type: none;
     text-align: center;
 
-    /* overflow: hidden; */
     background-color: #808080
 }
 
