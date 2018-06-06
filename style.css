@@ -1,0 +1,29 @@
+/* COMMENT */
+
+#menu ul {
+    margin: 0;
+    padding: 14px;
+    list-style-type: none;
+    text-align: center;
+
+    /* overflow: hidden; */
+    background-color: #808080
+}
+
+#menu ul li {
+    display: inline;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 14px;
+}
+
+#menu ul li a:hover{
+    background-color: #404040
+}
+
+.current {
+    background-color: #2eb82e;
+}
